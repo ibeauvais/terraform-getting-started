@@ -1,0 +1,6 @@
+*.tfvars
+.idea/
+*.iml
+.terraform/
+*.tfstate
+*.tfstate.backup
